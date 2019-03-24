@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{983347A7-EEA2-4F80-B918-9EF5EC182320}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeEfficiencyExperiment/Program.cs">
+    <Files>
+      <File FileName="TimeEfficiencyExperiment/Program.cs" Line="5" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TimeEfficiencyExperiment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

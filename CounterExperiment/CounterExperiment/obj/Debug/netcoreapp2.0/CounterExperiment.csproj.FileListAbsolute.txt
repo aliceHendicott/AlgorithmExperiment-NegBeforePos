@@ -1,0 +1,11 @@
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/bin/Debug/netcoreapp2.0/CounterExperiment.deps.json
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/bin/Debug/netcoreapp2.0/CounterExperiment.runtimeconfig.json
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/bin/Debug/netcoreapp2.0/CounterExperiment.runtimeconfig.dev.json
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/bin/Debug/netcoreapp2.0/CounterExperiment.dll
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/bin/Debug/netcoreapp2.0/CounterExperiment.pdb
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.csprojResolveAssemblyReference.cache
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.csproj.CoreCompileInputs.cache
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.AssemblyInfoInputs.cache
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.AssemblyInfo.cs
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.dll
+/Users/alicehendicott/Projects/CounterExperiment/CounterExperiment/obj/Debug/netcoreapp2.0/CounterExperiment.pdb

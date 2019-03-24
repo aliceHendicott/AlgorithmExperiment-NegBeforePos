@@ -1,0 +1,11 @@
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/bin/Debug/netcoreapp2.0/TimeEfficiencyExperiment.deps.json
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/bin/Debug/netcoreapp2.0/TimeEfficiencyExperiment.runtimeconfig.json
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/bin/Debug/netcoreapp2.0/TimeEfficiencyExperiment.runtimeconfig.dev.json
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/bin/Debug/netcoreapp2.0/TimeEfficiencyExperiment.dll
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/bin/Debug/netcoreapp2.0/TimeEfficiencyExperiment.pdb
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.csprojResolveAssemblyReference.cache
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.csproj.CoreCompileInputs.cache
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.AssemblyInfoInputs.cache
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.AssemblyInfo.cs
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.dll
+/Users/alicehendicott/Projects/TimeEfficiencyExperiment/TimeEfficiencyExperiment/obj/Debug/netcoreapp2.0/TimeEfficiencyExperiment.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterExperiment", "CounterExperiment\CounterExperiment.csproj", "{9D0C0CC5-9E4F-4453-9FB2-F0D1B176B88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D0C0CC5-9E4F-4453-9FB2-F0D1B176B88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0C0CC5-9E4F-4453-9FB2-F0D1B176B88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0C0CC5-9E4F-4453-9FB2-F0D1B176B88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0C0CC5-9E4F-4453-9FB2-F0D1B176B88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.csprojResolveAssemblyReference.cache
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.csproj.CoreCompileInputs.cache
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.AssemblyInfoInputs.cache
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.AssemblyInfo.cs
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/bin/Debug/netcoreapp2.0/ImplementationAndTesting.deps.json
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/bin/Debug/netcoreapp2.0/ImplementationAndTesting.runtimeconfig.json
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/bin/Debug/netcoreapp2.0/ImplementationAndTesting.runtimeconfig.dev.json
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/bin/Debug/netcoreapp2.0/ImplementationAndTesting.dll
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/bin/Debug/netcoreapp2.0/ImplementationAndTesting.pdb
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.dll
+/Users/alicehendicott/Projects/CAB301 Assignment/ImplementationAndTesting/ImplementationAndTesting/obj/Debug/netcoreapp2.0/ImplementationAndTesting.pdb
